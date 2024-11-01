@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertical marquee plugin\n"
+"POT-Creation-Date: 2021-08-07 16:24+0800\n"
+"PO-Revision-Date: 2021-08-07 16:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vertical-marquee-plugin.php:132
+msgid "No data found, please check the expiration date."
+msgstr "Dane nie znaleźć, proszę o sprawdzenie daty wygaśnięcia."
+
+#: ../vertical-marquee-plugin.php:203
+msgid "Please check your short code, no records available."
+msgstr ""
+"Prosimy o sprawdzenie krótkiego kodu. Galeria nie istnieje dla tego "
+"identyfikatora."
+
+#: ../vertical-marquee-plugin.php:269 ../vertical-marquee-plugin.php:276
+#: ../vertical-marquee-plugin.php:277
+msgid "Vertical marquee"
+msgstr "Markiza pionowa Tytuł postu"
+
+#: ../vertical-marquee-plugin.php:339
+msgid "Widget Title"
+msgstr "Tytuł widgetu"
+
+#: ../vertical-marquee-plugin.php:343 ../pages/content-setting.php:63
+#: ../pages/content-setting.php:83 ../pages/content-setting.php:103
+msgid "Scroll amount"
+msgstr "Centrum na zwoju"
+
+#: ../vertical-marquee-plugin.php:345
+msgid ""
+"Scroll Amount, together with Scroll Delay, sets the speed of the scrolling "
+"(Example: 2)"
+msgstr ""
+"Przewiń Kwota, wraz z Scroll Delay, ustawia szybkość przewijania (przykład: "
+"2)"
+
+#: ../vertical-marquee-plugin.php:348 ../pages/content-setting.php:67
+#: ../pages/content-setting.php:87 ../pages/content-setting.php:107
+msgid "Scroll delay"
+msgstr "Opóźnienie przewijania:"
+
+#: ../vertical-marquee-plugin.php:350
+msgid ""
+"Scroll Delay, together with Scroll Amount, sets the speed of the scrolling "
+"(Example: 5)"
+msgstr ""
+"Opóźnienie przewijania, oraz kwotę przewijania, ustawia szybkość przewijania "
+"(przykład: 5)"
+
+#: ../vertical-marquee-plugin.php:353
+msgid "Scroll Direction"
+msgstr "Kierunek"
+
+#: ../vertical-marquee-plugin.php:360 ../pages/content-setting.php:78
+#: ../pages/content-setting.php:98 ../pages/content-setting.php:118
+msgid "Style"
+msgstr "Styl"
+
+#: ../vertical-marquee-plugin.php:362
+msgid ""
+"This style attribute can contain any CSS property. (Example: height:100px;)"
+msgstr ""
+"Atrybut ten styl może zawierać właściwości CSS. (Przykład: wysokość: 100px;)"
+
+#: ../vertical-marquee-plugin.php:365
+msgid "Message group"
+msgstr "Miasto"
+
+#: ../vertical-marquee-plugin.php:381
+msgid "For more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../vertical-marquee-plugin.php:381 ../pages/content-management-add.php:145
+#: ../pages/content-management-edit.php:186 ../pages/content-setting.php:134
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../vertical-marquee-plugin.php:432 ../pages/content-management-add.php:26
+msgid "Please enter marquee message."
+msgstr "Wpisz krótką wiadomość na ten adres."
+
+#: ../vertical-marquee-plugin.php:433
+#, fuzzy
+msgid "Please select message group."
+msgstr "Wpisz krótką wiadomość na ten adres."
+
+#: ../vertical-marquee-plugin.php:434
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/content-management-add.php:38
+#: ../pages/content-management-edit.php:67
+msgid "Please enter valid expiration date, YYYY-MM-DD."
+msgstr ""
+
+#: ../pages/content-management-add.php:54
+msgid "New details was successfully added."
+msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#: ../pages/content-management-add.php:78
+#: ../pages/content-management-edit.php:103
+msgid "Click here to view the details"
+msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#: ../pages/content-management-add.php:85
+#: ../pages/content-management-edit.php:110
+#: ../pages/content-management-show.php:62 ../pages/content-setting.php:7
+msgid "Vertical marquee plugin"
+msgstr "Markiza pionowa Tytuł postu"
+
+#: ../pages/content-management-add.php:87
+msgid "Add message"
+msgstr "Dodaj wiadomość"
+
+#: ../pages/content-management-add.php:89
+#: ../pages/content-management-edit.php:114
+msgid "Enter marquee message"
+msgstr "Wpisz wiadomość markizy"
+
+#: ../pages/content-management-add.php:91
+#: ../pages/content-management-edit.php:116
+msgid "We can enter HTML content also."
+msgstr "Możemy również wpisać treść w języku HTML."
+
+#: ../pages/content-management-add.php:93
+#: ../pages/content-management-edit.php:118
+msgid "Enter link"
+msgstr "Podaj link"
+
+#: ../pages/content-management-add.php:95
+#: ../pages/content-management-edit.php:120
+msgid "When someone clicks on the message, where do you want to send them."
+msgstr "Gdy ktoś kliknie na obrazek, w którym chcesz wysłać."
+
+#: ../pages/content-management-add.php:97
+msgid "Select group"
+msgstr "\"Wybierz grupę\""
+
+#: ../pages/content-management-add.php:126
+msgid "This is to group the message. Select your group."
+msgstr "To jest do grupy wiadomości. Wybierz swoją grupę."
+
+#: ../pages/content-management-add.php:128
+#: ../pages/content-management-edit.php:169
+msgid "Expiration date"
+msgstr "Data wygaśnięcia"
+
+#: ../pages/content-management-add.php:130
+#: ../pages/content-management-edit.php:171
+msgid "Enter expiration date for the message as per format."
+msgstr "Wprowadź datę ważności dla wiadomości, jak na formacie."
+
+#: ../pages/content-management-add.php:135
+msgid "Insert Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../pages/content-management-add.php:136
+#: ../pages/content-management-edit.php:177 ../pages/content-setting.php:125
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/content-management-add.php:137
+#: ../pages/content-management-edit.php:178
+#: ../pages/content-management-show.php:126 ../pages/content-setting.php:126
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/content-management-add.php:144
+#: ../pages/content-management-edit.php:185 ../pages/content-setting.php:133
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../pages/content-management-edit.php:19
+#: ../pages/content-management-show.php:26
+msgid "Oops, selected details doesnt exist"
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/content-management-edit.php:55
+msgid "Please enter the popup message."
+msgstr "Wpisz krótką wiadomość na ten adres."
+
+#: ../pages/content-management-edit.php:86
+msgid "Details was successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-management-edit.php:112
+msgid "Edit message"
+msgstr "Edytuj"
+
+#: ../pages/content-management-edit.php:122
+msgid "Select popup group"
+msgstr "Wybierz grupę popup dla opcji widget."
+
+#: ../pages/content-management-edit.php:159
+msgid "This is to group the popup message. Select your popup group."
+msgstr "Proszę wybrać dostępną grupę do wiadomości."
+
+#: ../pages/content-management-edit.php:176
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-management-show.php:46
+msgid "Selected record was successfully deleted."
+msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#: ../pages/content-management-show.php:63
+#: ../pages/content-management-show.php:124
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/content-management-show.php:74
+#: ../pages/content-management-show.php:81
+msgid "Marquee message"
+msgstr "Markiza pionowa Tytuł postu"
+
+#: ../pages/content-management-show.php:75
+#: ../pages/content-management-show.php:82
+msgid "Group"
+msgstr "Miasto"
+
+#: ../pages/content-management-show.php:76
+#: ../pages/content-management-show.php:83
+msgid "Expiration"
+msgstr "Wygasa"
+
+#: ../pages/content-management-show.php:103
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../pages/content-management-show.php:104
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../pages/content-management-show.php:114
+msgid "No records available."
+msgstr "Rejestry nie są dostępne."
+
+#: ../pages/content-management-show.php:125
+msgid "Setting Management"
+msgstr "Ustawienia zarządzania"
+
+#: ../pages/content-management-show.php:127
+msgid "Short Code"
+msgstr ""
+
+#: ../pages/content-setting.php:54
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-setting.php:62
+msgid "Setting 1"
+msgstr "Ustawienia"
+
+#: ../pages/content-setting.php:65 ../pages/content-setting.php:85
+#: ../pages/content-setting.php:105
+msgid ""
+"Scroll Amount, together with Scroll Delay, sets the speed of the scrolling."
+msgstr ""
+"Ilości przewijania, oraz opóźnienie przewijania, ustawia szybkość "
+"przewijania."
+
+#: ../pages/content-setting.php:69 ../pages/content-setting.php:89
+#: ../pages/content-setting.php:109
+msgid ""
+"Scroll Delay, together with Scroll Amount, sets the speed of the scrolling."
+msgstr ""
+"Opóźnienie przewijania, oraz kwotę przewijania, ustawia szybkość przewijania."
+
+#: ../pages/content-setting.php:71 ../pages/content-setting.php:91
+#: ../pages/content-setting.php:111
+msgid "Direction"
+msgstr "Kierunek"
+
+#: ../pages/content-setting.php:76 ../pages/content-setting.php:96
+#: ../pages/content-setting.php:116
+msgid "Select your scroll direction."
+msgstr "Wybierz kierunek przewijania."
+
+#: ../pages/content-setting.php:80 ../pages/content-setting.php:100
+#: ../pages/content-setting.php:120
+msgid "The style attribute can contain any CSS property."
+msgstr "Atrybut ten styl może zawierać żadnych właściwości CSS."
+
+#: ../pages/content-setting.php:82
+msgid "Setting 2"
+msgstr "Ustawienie 2"
+
+#: ../pages/content-setting.php:102
+msgid "Setting 3"
+msgstr "Ustawienie 3"
+
+#: ../pages/content-setting.php:124
+msgid "Submit"
+msgstr "Wyślij"
